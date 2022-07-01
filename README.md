@@ -1,4 +1,9 @@
 # Shop API Cloud Functions
+
+### High level architecture diagram:
+![Architecture](architecture.png)
+
+
 Example GCP cloud functions app created for the following blog post.
 
 Link TBA
