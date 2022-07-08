@@ -6,7 +6,7 @@
 
 Example GCP cloud functions app created for the following blog post.
 
-Link TBA
+https://kyan.com/news/accessing-a-gke-internal-service-from-the-api-gateway
 
 This cloud function app connects to the Shop API application
 
